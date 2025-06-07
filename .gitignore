@@ -2,3 +2,4 @@
 .venv
 instance/posts.db
 .env
+__pycache__/
